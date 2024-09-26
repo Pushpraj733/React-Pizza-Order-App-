@@ -13,7 +13,7 @@ Welcome to the React Pizza Order App, a professional-level web application that 
 
 ## 🚀 Live Demo
 
-Check out the live demo [here]()!
+Check out the live demo [here](https://deft-crumble-db8aa4.netlify.app/)!
 
 ## 🌟 Flow and Features
 
@@ -57,7 +57,7 @@ Check out the live demo [here]()!
 1. Clone the repository:
 
     ```bash
-    gh repo clone 
+    gh repo clone https://github.com/Pushpraj733/React-Pizza-Order-App-
     ```
 
 2. Install dependencies:
